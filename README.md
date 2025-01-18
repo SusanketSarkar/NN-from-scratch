@@ -95,8 +95,12 @@ pip install -r requirements.txt
 ## Example Results
 
 The network has been tested on the MNIST dataset, achieving reasonable performance for a from-scratch implementation:
-- Training accuracy: ~XX%
-- Validation accuracy: ~XX%
+- Training accuracy: 99.445%
+- Validation accuracy: 97.625%
+- {'accuracy': 0.97625,
+ 'precision': 0.9759900486865305,
+ 'recall': 0.9764165113480248,
+ 'f1_score': 0.9761682848191737}
 
 ## Contributing
 
